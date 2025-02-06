@@ -18,7 +18,7 @@
     ],
     "servers": [
     {
-      "url": "http://localhost:5000",
+      "url": "https://prakteknodejs-production.up.railway.app/",
       "description": "Local server"
     }
   ],
